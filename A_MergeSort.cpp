@@ -67,9 +67,9 @@ for(i=0;i<n;i++)
 cin>>a[i];
 }
 // start=.......
-//#pragma omp…..
+//#pragma ompâ€¦..
 mergesort(a, 0, n-1);
-// stop…….
+// stopâ€¦â€¦.
 cout<<"\n sorted array is=>";
 for(i=0;i<n;i++)
 {
